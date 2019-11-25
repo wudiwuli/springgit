@@ -12,6 +12,6 @@ public class HelloController {
 
         System.out.println("Hello world 1234569");
 
-        return "success";
+        return "success123";
     }
 }
